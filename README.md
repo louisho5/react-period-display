@@ -19,7 +19,7 @@ npm i react-period-display
 To use the PeriodDisplay component, first import it into your React application:
 
 ```js
-import PeriodDisplay from 'period-display';
+import PeriodDisplay from 'react-period-display';
 ```
 
 Next, implement the component in your application like this:
