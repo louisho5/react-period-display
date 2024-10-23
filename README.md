@@ -2,6 +2,9 @@
 
 A React component that renders content based on real-time checks of specified start and end dates. This component is useful for displaying content that should only be visible during a certain time period.
 
+## Version
+v0.1.0
+
 ## Features
 
 - Display content based on a start date.
