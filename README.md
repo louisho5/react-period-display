@@ -12,7 +12,7 @@ A React component that renders content based on real-time checks of specified st
 You can install the `PeriodDisplay` component via npm:
 
 ```bash
-npm install react-period-display
+npm install @louisho5/react-period-display
 ```
 
 ## Usage
