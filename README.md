@@ -6,7 +6,6 @@ A React component that renders content based on real-time checks of specified st
 
 - Display content based on a start date.
 - Display content until an end date.
-- Automatically updates visibility every second.
 
 ## Installation
 You can install the `PeriodDisplay` component via npm:
