@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.8
+- Updated package.json
+
 ## 0.1.7
 - Updated file extension to be compatible with Vite
 
