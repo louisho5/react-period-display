@@ -1,6 +1,6 @@
 {
     "name": "react-period-display",
-    "version": "0.1.5",
+    "version": "0.1.7",
     "description": "A React component for displaying content based on time periods.",
     "main": "src/index.js",
     "scripts": {

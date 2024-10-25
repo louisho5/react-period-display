@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.7
+- Updated file extension to be compatible with Vite
+
 ## 0.1.6
 - Added CHANGELOG.md
 - Updated README.md
