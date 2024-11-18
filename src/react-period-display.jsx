@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, Fragment } from 'react';
 
 function PeriodDisplay({ children, showStart, showEnd }) {
   const [isVisible, setIsVisible] = useState(true);
@@ -27,7 +27,7 @@ function PeriodDisplay({ children, showStart, showEnd }) {
     return () => clearInterval(intervalId);
   }, [showStart, showEnd]); // Re-run effect when showStart or showEnd change
 
-  return isVisible ? <div>{children}</div> : null;
+  return isVisible ? <Fragment>{children}</Fragment> : null;
 }
 
 export default PeriodDisplay;

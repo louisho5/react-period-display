@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## [0.1.10]
+- Optimized code
+
 ## [0.1.9]
 - Updated .gitignore
 
